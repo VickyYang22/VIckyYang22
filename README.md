@@ -32,7 +32,7 @@ I am a new Developer from LAOS. <img src="https://media4.giphy.com/media/Ll22OhM
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/fa13fd3d5737d87e0ece5135ec7834edf37f2df05674a2892a5d619334b94bcb/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e332f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="Bootstrap logo" width="50" height="50" data-canonical-src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" title="Bootstrap" alt="Bootstrap" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="50" height="50" alt="c logo">
   <img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" alt="python" width="50" height="50">
